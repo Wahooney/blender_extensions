@@ -1,0 +1,189 @@
+{
+  "version": "v1",
+  "blocklist": [],
+  "data": [
+    {
+      "schema_version": "1.0.0",
+      "id": "bake_meshes",
+      "name": "Wahooney's Bake Meshes",
+      "tagline": "Bake mesh data to a static mesh, and restore it later",
+      "version": "1.0.0",
+      "type": "add-on",
+      "maintainer": "Keith 'Wahooney' Boshoff",
+      "license": [
+        "SPDX:GPL-2.0-or-later"
+      ],
+      "blender_version_min": "4.4.0",
+      "copyright": [
+        "2024 Keith 'Wahooney' Boshoff"
+      ],
+      "tags": [
+        "Mesh",
+        "Modeling"
+      ],
+      "archive_url": "./bake_meshes-1.0.0.zip",
+      "archive_size": 3380,
+      "archive_hash": "sha256:96c74bf52230896343043445a77e31a3ad8644b1482bfcfa270adf513fc8792f"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "engine_exporter",
+      "name": "Wahooney's Engine Export Tools",
+      "tagline": "Export meshes in compatible formats for game engines",
+      "version": "0.21.0",
+      "type": "add-on",
+      "maintainer": "Keith 'Wahooney' Boshoff",
+      "license": [
+        "SPDX:GPL-2.0-or-later"
+      ],
+      "blender_version_min": "4.4.0",
+      "copyright": [
+        "2024 Keith 'Wahooney' Boshoff"
+      ],
+      "permissions": {
+        "files": "Export data to FBX/GLTF/USD"
+      },
+      "tags": [
+        "Import-Export",
+        "Game Engine"
+      ],
+      "archive_url": "./engine_exporter-0.21.0.zip",
+      "archive_size": 56273,
+      "archive_hash": "sha256:50722c1cd40903200b119cf3fd134f703cf229b9e90b3c3c1c99c303897e1ba7"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "optimize_meshes",
+      "name": "Wahooney's Optimize Meshes",
+      "tagline": "Reduce number of faces to exact counts",
+      "version": "0.6.0",
+      "type": "add-on",
+      "maintainer": "Keith 'Wahooney' Boshoff <wahooney@gmail.com>",
+      "license": [
+        "SPDX:GPL-2.0-or-later"
+      ],
+      "blender_version_min": "4.4.0",
+      "copyright": [
+        "2024 Keith 'Wahooney' Boshoff"
+      ],
+      "tags": [
+        "Mesh",
+        "Modeling"
+      ],
+      "archive_url": "./optimize_meshes-0.6.0.zip",
+      "archive_size": 2220,
+      "archive_hash": "sha256:78b7fe2c7f3ef9c47227eda88d239b7470452dc1fdf8e7b4dbe2906560b489b5"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "palette_map",
+      "name": "Wahooney's Palette Map",
+      "tagline": "Generate palette texture maps",
+      "version": "2.1.0",
+      "type": "add-on",
+      "maintainer": "Keith 'Wahooney' Boshoff",
+      "license": [
+        "SPDX:GPL-2.0-or-later"
+      ],
+      "blender_version_min": "4.4.0",
+      "copyright": [
+        "2024 Keith 'Wahooney' Boshoff"
+      ],
+      "permissions": {
+        "files": "Export palette data"
+      },
+      "tags": [
+        "Game Engine",
+        "Material"
+      ],
+      "archive_url": "./palette_map-2.1.0.zip",
+      "archive_size": 326902,
+      "archive_hash": "sha256:fa36ec6c65368b0c4bb4a951a18fd4592f69f404fb97234122826663036c4061"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sequencer_army_knife",
+      "name": "Sequencer Army Knife",
+      "tagline": "Tools to help working in video sequence editor",
+      "version": "1.0.0",
+      "type": "add-on",
+      "maintainer": "Keith 'Wahooney' Boshoff",
+      "license": [
+        "SPDX:GPL-2.0-or-later"
+      ],
+      "blender_version_min": "4.4.0",
+      "tags": [
+        "Sequencer"
+      ],
+      "archive_url": "./sequencer_army_knife-1.0.0.zip",
+      "archive_size": 3438,
+      "archive_hash": "sha256:2f301daf163cd7d33a8ac64822796ae03d39d2b7d4dd978201a1709b3dcee643"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "spacial_army_knife",
+      "name": "Wahooney's Spacial Army Knife",
+      "tagline": "Tools for manupulating and managing 3D objects and space",
+      "version": "1.0.0",
+      "type": "add-on",
+      "maintainer": "Keith 'Wahooney' Boshoff",
+      "license": [
+        "SPDX:GPL-2.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "copyright": [
+        "2024 Keith 'Wahooney' Boshoff"
+      ],
+      "tags": [
+        "Object",
+        "3D View",
+        "Mesh",
+        "Modeling"
+      ],
+      "archive_url": "./spacial_army_knife-1.0.0.zip",
+      "archive_size": 3825,
+      "archive_hash": "sha256:ebf9e1f774a49fa6da442da21a92cfd9be2837e70044b24558160b15f7a6656c"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "unreal_engine_army_knife",
+      "name": "Wahooney's Unreal Engine Army Knife",
+      "tagline": "This is another extension",
+      "version": "1.0.0",
+      "type": "add-on",
+      "maintainer": "Keith 'Wahooney' Boshoff",
+      "license": [
+        "SPDX:GPL-2.0-or-later"
+      ],
+      "blender_version_min": "4.4.0",
+      "tags": [
+        "Mesh"
+      ],
+      "archive_url": "./unreal_engine_army_knife-1.0.0.zip",
+      "archive_size": 6203,
+      "archive_hash": "sha256:e43315f2d8fa0db5eed6486c7052c9f6ef4b800757d062d0e3dd2f548d59ed8b"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "uv_army_knife",
+      "name": "Wahooney's UV Army Knife",
+      "tagline": "A set of tools for manupulating and managing UV layers",
+      "version": "1.1.0",
+      "type": "add-on",
+      "maintainer": "Keith 'Wahooney' Boshoff",
+      "license": [
+        "SPDX:GPL-2.0-or-later"
+      ],
+      "blender_version_min": "4.4.0",
+      "copyright": [
+        "2024 Keith 'Wahooney' Boshoff"
+      ],
+      "tags": [
+        "UV"
+      ],
+      "archive_url": "./uv_army_knife-1.1.0.zip",
+      "archive_size": 21185,
+      "archive_hash": "sha256:71c0bee00065440e180ee9842c748db9b7a7800e8c7a36976178005118974016"
+    }
+  ]
+}
