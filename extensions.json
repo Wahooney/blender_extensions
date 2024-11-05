@@ -2,7 +2,7 @@
     "blocklist": [],
     "data": [
         {
-            "id": "engine-exporter",
+            "id": "engine_exporter",
             "schema_version": "1.0.0",
             "name": "Wahooney's Engine Exporter",
             "version": "0.20.4",
