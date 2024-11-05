@@ -1,0 +1,170 @@
+{
+    "version": "v1",
+    "blocklist": [],
+    "data": [
+        {
+            "schema_version": "1.0.0",
+            "id": "bake_meshes",
+            "name": "Wahooney's Bake Meshes",
+            "tagline": "Bake mesh data to a static mesh, and restore it later",
+            "version": "1.0.0",
+            "type": "add-on",
+            "maintainer": "Keith 'Wahooney' Boshoff",
+            "license": [
+                "SPDX:GPL-2.0-or-later"
+            ],
+            "blender_version_min": "4.2.0",
+            "copyright": [
+                "2024 Keith 'Wahooney' Boshoff"
+            ],
+            "tags": [
+                "Mesh",
+                "Modeling"
+            ],
+            "archive_url": "https://github.com/Wahooney/blender_extensions/raw/refs/heads/main/archives/bake_meshes-1.0.0.zip",
+            "archive_size": 3166,
+            "archive_hash": "sha256:4b046e4b4d70fe339b3f4edba42e524b6796cfafbf0f7905053e2e1c2634aef0"
+        },
+        {
+            "schema_version": "1.0.0",
+            "id": "engine_exporter",
+            "name": "Wahooney's Engine Export Tools",
+            "tagline": "Export meshes in compatible formats for game engines",
+            "version": "0.20.4",
+            "type": "add-on",
+            "maintainer": "Keith 'Wahooney' Boshoff",
+            "license": [
+                "SPDX:GPL-2.0-or-later"
+            ],
+            "blender_version_min": "4.2.0",
+            "copyright": [
+                "2024 Keith 'Wahooney' Boshoff"
+            ],
+            "permissions": {
+                "files": "Export data to FBX/GLTF/USD"
+            },
+            "tags": [
+                "Import-Export",
+                "Game Engine"
+            ],
+            "archive_url": "https://github.com/Wahooney/blender_extensions/raw/refs/heads/main/archives/engine_exporter-0.20.4.zip",
+            "archive_size": 54750,
+            "archive_hash": "sha256:0a94e5e048f657bd38a73e2735b98b3f1ca565df121a165d97a101dc971bc53a"
+        },
+        {
+            "schema_version": "1.0.0",
+            "id": "optimize_meshes",
+            "name": "Wahooney's Optimize Meshes",
+            "tagline": "Reduce number of faces to exact counts",
+            "version": "0.5.0",
+            "type": "add-on",
+            "maintainer": "Keith 'Wahooney' Boshoff <wahooney@gmail.com>",
+            "license": [
+                "SPDX:GPL-2.0-or-later"
+            ],
+            "blender_version_min": "4.2.0",
+            "copyright": [
+                "2024 Keith 'Wahooney' Boshoff"
+            ],
+            "tags": [
+                "Mesh",
+                "Modeling"
+            ],
+            "archive_url": "https://github.com/Wahooney/blender_extensions/raw/refs/heads/main/archives/optimize_meshes-0.5.0.zip",
+            "archive_size": 2064,
+            "archive_hash": "sha256:a707cc3014a4d7b19232f11a314b23c3df0d211800ce919794c648402098707a"
+        },
+        {
+            "schema_version": "1.0.0",
+            "id": "palette_map",
+            "name": "Wahooney's Palette Map",
+            "tagline": "Generate palette texture maps",
+            "version": "2.0.0",
+            "type": "add-on",
+            "maintainer": "Keith 'Wahooney' Boshoff",
+            "license": [
+                "SPDX:GPL-2.0-or-later"
+            ],
+            "blender_version_min": "4.2.0",
+            "copyright": [
+                "2024 Keith 'Wahooney' Boshoff"
+            ],
+            "permissions": {
+                "files": "Export palette data"
+            },
+            "tags": [
+                "Game Engine",
+                "Material"
+            ],
+            "archive_url": "https://github.com/Wahooney/blender_extensions/raw/refs/heads/main/archives/palette_map-2.0.0.zip",
+            "archive_size": 320740,
+            "archive_hash": "sha256:5a266363f41159ca62358d8b98340b64bd8337cb41b0f1b492220d5d9efae963"
+        },
+        {
+            "schema_version": "1.0.0",
+            "id": "spacial_army_knife",
+            "name": "Wahooney's Spacial Army Knife",
+            "tagline": "Tools for manupulating and managing 3D objects and space",
+            "version": "1.0.0",
+            "type": "add-on",
+            "maintainer": "Keith 'Wahooney' Boshoff",
+            "license": [
+                "SPDX:GPL-2.0-or-later"
+            ],
+            "blender_version_min": "4.2.0",
+            "copyright": [
+                "2024 Keith 'Wahooney' Boshoff"
+            ],
+            "tags": [
+                "Object",
+                "3D View",
+                "Mesh",
+                "Modeling"
+            ],
+            "archive_url": "https://github.com/Wahooney/blender_extensions/raw/refs/heads/main/archives/spacial_army_knife-1.0.0.zip",
+            "archive_size": 3825,
+            "archive_hash": "sha256:ebf9e1f774a49fa6da442da21a92cfd9be2837e70044b24558160b15f7a6656c"
+        },
+        {
+            "schema_version": "1.0.0",
+            "id": "unreal_engine_army_knife",
+            "name": "Unreal Engine Army Knife",
+            "tagline": "This is another extension",
+            "version": "1.0.0",
+            "type": "add-on",
+            "maintainer": "Keith 'Wahooney' Boshoff",
+            "license": [
+                "SPDX:GPL-2.0-or-later"
+            ],
+            "blender_version_min": "4.2.0",
+            "tags": [
+                "Mesh"
+            ],
+            "archive_url": "https://github.com/Wahooney/blender_extensions/raw/refs/heads/main/archives/unreal_engine_army_knife-1.0.0.zip",
+            "archive_size": 2593,
+            "archive_hash": "sha256:59bdba8659278d521d17a08d3c5041ee8a7c178b420ab048ee2056d03315a0ac"
+        },
+        {
+            "schema_version": "1.0.0",
+            "id": "uv_army_knife",
+            "name": "Wahooney's UV Army Knife",
+            "tagline": "A set of tools for manupulating and managing UV layers",
+            "version": "1.0.0",
+            "type": "add-on",
+            "maintainer": "Keith 'Wahooney' Boshoff",
+            "license": [
+                "SPDX:GPL-2.0-or-later"
+            ],
+            "blender_version_min": "4.2.0",
+            "copyright": [
+                "2024 Keith 'Wahooney' Boshoff"
+            ],
+            "tags": [
+                "UV"
+            ],
+            "archive_url": "https://github.com/Wahooney/blender_extensions/raw/refs/heads/main/archives/uv_army_knife-1.0.0.zip",
+            "archive_size": 20860,
+            "archive_hash": "sha256:f6180f02b56771e3a90b5bc5b802c110f44891ba6527acd12f34383881b8dcdc"
+        }
+    ]
+}
