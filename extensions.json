@@ -10,7 +10,7 @@
             "archive_url": "https://github.com/Wahooney/blender_extensions/raw/refs/heads/main/archives/engine_exporter-0.20.4.zip",
             "type": "add-on",
             "blender_version_min": "4.2.0",
-            "website": "",
+            "website": "https://github.com/Wahooney/blender_extensions",
             "maintainer": "Keith (Wahooney) Boshoff",
             "license": [
                 "SPDX:GPL-3.0-or-later"
