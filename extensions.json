@@ -7,11 +7,11 @@
             "name": "Wahooney's Engine Exporter",
             "version": "0.20.4",
             "tagline": "Export your models to your game engine",
-            "archive_url": "https://extensions.blender.org/download/sha256:237a5580e2e42f1c226a842abb654d0a9e297b4ef52138551d2f90234be6f842/add-on-mio3-uv-v1.2.0.zip",
+            "archive_url": "https://github.com/Wahooney/blender_extensions/raw/refs/heads/main/archives/engine_exporter-0.20.4.zip",
             "type": "add-on",
             "blender_version_min": "4.2.0",
             "website": "",
-            "maintainer": "wahooney",
+            "maintainer": "Keith (Wahooney) Boshoff",
             "license": [
                 "SPDX:GPL-3.0-or-later"
             ],
