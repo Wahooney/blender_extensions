@@ -7,8 +7,6 @@
             "name": "Wahooney's Engine Exporter",
             "version": "0.20.4",
             "tagline": "Export your models to your game engine",
-            "archive_hash": "sha256:237a5580e2e42f1c226a842abb654d0a9e297b4ef52138551d2f90234be6f842",
-            "archive_size": 4122695,
             "archive_url": "https://extensions.blender.org/download/sha256:237a5580e2e42f1c226a842abb654d0a9e297b4ef52138551d2f90234be6f842/add-on-mio3-uv-v1.2.0.zip",
             "type": "add-on",
             "blender_version_min": "4.2.0",
