@@ -22,8 +22,8 @@
         "Modeling"
       ],
       "archive_url": "./bake_meshes-1.0.0.zip",
-      "archive_size": 3380,
-      "archive_hash": "sha256:96c74bf52230896343043445a77e31a3ad8644b1482bfcfa270adf513fc8792f"
+      "archive_size": 3837,
+      "archive_hash": "sha256:52d8c4b32a4f7731ae267db549235d7ce32643d65419d2836d6c2897c2950517"
     },
     {
       "schema_version": "1.0.0",
@@ -48,8 +48,56 @@
         "Game Engine"
       ],
       "archive_url": "./engine_exporter-0.21.0.zip",
-      "archive_size": 56273,
-      "archive_hash": "sha256:50722c1cd40903200b119cf3fd134f703cf229b9e90b3c3c1c99c303897e1ba7"
+      "archive_size": 59755,
+      "archive_hash": "sha256:5fcf1ef29fd2d0cf63b6c264242160490d8ebcb85ac813d808c0680ff1b33f3f"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "game_asset_army_knife",
+      "name": "Wahooney's Game Asset Army Knife",
+      "tagline": "Collection of tools to aid game asset creation",
+      "version": "0.1.0",
+      "type": "add-on",
+      "maintainer": "Keith 'Wahooney' Boshoff <wahooney@gmail.com>",
+      "license": [
+        "SPDX:GPL-2.0-or-later"
+      ],
+      "blender_version_min": "4.5.0",
+      "copyright": [
+        "2025 Keith 'Wahooney' Boshoff"
+      ],
+      "tags": [
+        "Mesh",
+        "Modeling",
+        "UV",
+        "Material"
+      ],
+      "archive_url": "./game_asset_army_knife-0.1.0.zip",
+      "archive_size": 16630,
+      "archive_hash": "sha256:3fb6a965920a6dfd66072eeecd59612fab3ebe94ec070e5271858fa8bc2105ea"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "mesh_army_knife",
+      "name": "Wahooney's Mesh Army Knife",
+      "tagline": "Collection of tools to manipulate meshes",
+      "version": "0.1.0",
+      "type": "add-on",
+      "maintainer": "Keith 'Wahooney' Boshoff <wahooney@gmail.com>",
+      "license": [
+        "SPDX:GPL-2.0-or-later"
+      ],
+      "blender_version_min": "4.5.0",
+      "copyright": [
+        "2025 Keith 'Wahooney' Boshoff"
+      ],
+      "tags": [
+        "Mesh",
+        "Modeling"
+      ],
+      "archive_url": "./mesh_army_knife-0.1.0.zip",
+      "archive_size": 2983,
+      "archive_hash": "sha256:23adee75ec0c82d895f1290d127be7e96517220791f0f18d1ce5f17fcc59d505"
     },
     {
       "schema_version": "1.0.0",
@@ -97,8 +145,8 @@
         "Material"
       ],
       "archive_url": "./palette_map-2.1.0.zip",
-      "archive_size": 326902,
-      "archive_hash": "sha256:fa36ec6c65368b0c4bb4a951a18fd4592f69f404fb97234122826663036c4061"
+      "archive_size": 190148,
+      "archive_hash": "sha256:2baf204ad495ad82b17c2b09c2d389d1d0c65ef9d48fa2169ccb474d74365267"
     },
     {
       "schema_version": "1.0.0",
@@ -141,8 +189,8 @@
         "Modeling"
       ],
       "archive_url": "./spacial_army_knife-1.0.0.zip",
-      "archive_size": 3825,
-      "archive_hash": "sha256:ebf9e1f774a49fa6da442da21a92cfd9be2837e70044b24558160b15f7a6656c"
+      "archive_size": 5101,
+      "archive_hash": "sha256:b25f26f7c0b06700b253f958c9df88b6bf83061b282537170bbd1bae4cd18336"
     },
     {
       "schema_version": "1.0.0",
@@ -184,6 +232,28 @@
       "archive_url": "./uv_army_knife-1.1.0.zip",
       "archive_size": 21185,
       "archive_hash": "sha256:71c0bee00065440e180ee9842c748db9b7a7800e8c7a36976178005118974016"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "uv_army_knife",
+      "name": "Wahooney's UV Army Knife",
+      "tagline": "A set of tools for manupulating and managing UV layers",
+      "version": "1.2.0",
+      "type": "add-on",
+      "maintainer": "Keith 'Wahooney' Boshoff",
+      "license": [
+        "SPDX:GPL-2.0-or-later"
+      ],
+      "blender_version_min": "4.4.0",
+      "copyright": [
+        "2024 Keith 'Wahooney' Boshoff"
+      ],
+      "tags": [
+        "UV"
+      ],
+      "archive_url": "./uv_army_knife-1.2.0.zip",
+      "archive_size": 23321,
+      "archive_hash": "sha256:9bcfde6f68cd74981bc12800a9b9be58d9576fff4f1aa4ea2dd68979a7603368"
     }
   ]
 }
