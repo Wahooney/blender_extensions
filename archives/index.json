@@ -22,8 +22,8 @@
         "Modeling"
       ],
       "archive_url": "./bake_meshes-1.0.0.zip",
-      "archive_size": 3837,
-      "archive_hash": "sha256:52d8c4b32a4f7731ae267db549235d7ce32643d65419d2836d6c2897c2950517"
+      "archive_size": 3907,
+      "archive_hash": "sha256:d6cc25ced2116b69ec830cddd426dbc54464c3154c9c246040df9c5d69ada516"
     },
     {
       "schema_version": "1.0.0",
@@ -48,8 +48,8 @@
         "Game Engine"
       ],
       "archive_url": "./engine_exporter-0.21.0.zip",
-      "archive_size": 59755,
-      "archive_hash": "sha256:5fcf1ef29fd2d0cf63b6c264242160490d8ebcb85ac813d808c0680ff1b33f3f"
+      "archive_size": 67142,
+      "archive_hash": "sha256:a4fad20eaf49dbcdea62c0d842f8f314b6390b7586e2e7a8574e876be0f19f62"
     },
     {
       "schema_version": "1.0.0",
@@ -73,8 +73,8 @@
         "Material"
       ],
       "archive_url": "./game_asset_army_knife-0.1.0.zip",
-      "archive_size": 16630,
-      "archive_hash": "sha256:3fb6a965920a6dfd66072eeecd59612fab3ebe94ec070e5271858fa8bc2105ea"
+      "archive_size": 22143,
+      "archive_hash": "sha256:15942cbfeda43a56b78d872ea3f33213d0be9625555bfabd0f56b292dc996f90"
     },
     {
       "schema_version": "1.0.0",
@@ -145,8 +145,8 @@
         "Material"
       ],
       "archive_url": "./palette_map-2.1.0.zip",
-      "archive_size": 190148,
-      "archive_hash": "sha256:2baf204ad495ad82b17c2b09c2d389d1d0c65ef9d48fa2169ccb474d74365267"
+      "archive_size": 197628,
+      "archive_hash": "sha256:d105440e5b5e1d4708316d71b3ed7225b2b24e5323b5ecb8a9c588284a81463e"
     },
     {
       "schema_version": "1.0.0",
@@ -166,6 +166,29 @@
       "archive_url": "./sequencer_army_knife-1.0.0.zip",
       "archive_size": 3438,
       "archive_hash": "sha256:2f301daf163cd7d33a8ac64822796ae03d39d2b7d4dd978201a1709b3dcee643"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "skeletonize_mesh",
+      "name": "Skeletonize Mesh",
+      "tagline": "Create a skeletal guide from mesh topology",
+      "version": "0.1.0",
+      "type": "add-on",
+      "maintainer": "Keith 'Wahooney' Boshoff <wahooney@gmail.com>",
+      "license": [
+        "SPDX:GPL-2.0-or-later"
+      ],
+      "blender_version_min": "4.5.0",
+      "copyright": [
+        "2026 Keith 'Wahooney' Boshoff"
+      ],
+      "tags": [
+        "Mesh",
+        "Modeling"
+      ],
+      "archive_url": "./skeletonize_mesh-0.1.0.zip",
+      "archive_size": 5693,
+      "archive_hash": "sha256:877d93892f65b2595387b18e906858a34aaba6d7e5410e7dae41bdf306a358d4"
     },
     {
       "schema_version": "1.0.0",
@@ -189,8 +212,24 @@
         "Modeling"
       ],
       "archive_url": "./spacial_army_knife-1.0.0.zip",
-      "archive_size": 5101,
-      "archive_hash": "sha256:b25f26f7c0b06700b253f958c9df88b6bf83061b282537170bbd1bae4cd18336"
+      "archive_size": 5420,
+      "archive_hash": "sha256:c8b711ccb50fff9d3c2605457c08341e83653eb8323370420aa9376813218b6e"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "tgs_hex_editor",
+      "name": "TGS Hex Level Editor",
+      "tagline": "Author Tactical Guard Squad hex arenas as JSON/Verse",
+      "version": "0.5.0",
+      "type": "add-on",
+      "maintainer": "TGS",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "5.1.0",
+      "archive_url": "./tgs_hex_editor-0.5.0.zip",
+      "archive_size": 37541,
+      "archive_hash": "sha256:f4c30c9b78e35dd2112693d4ba88f439e794c22c0ef942f5f0dea6a6dc800ffe"
     },
     {
       "schema_version": "1.0.0",
@@ -252,8 +291,8 @@
         "UV"
       ],
       "archive_url": "./uv_army_knife-1.2.0.zip",
-      "archive_size": 23321,
-      "archive_hash": "sha256:9bcfde6f68cd74981bc12800a9b9be58d9576fff4f1aa4ea2dd68979a7603368"
+      "archive_size": 23974,
+      "archive_hash": "sha256:16e7f434ace287439ecf7bf526c42d8c891eccfd3f65f94c8212734917948b2e"
     }
   ]
 }
